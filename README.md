@@ -1,5 +1,5 @@
 # APITesting using PYTHON
 
-Packages to be installed :
-pip install requests
-pip install jsonpath
+Packages to be installed : <br>
+pip install requests <br>
+pip install jsonpath <br>
